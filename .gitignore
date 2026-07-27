@@ -8,6 +8,7 @@ build/
 # Output files
 workspace/output/
 *.pt
+!workspace/output/pdenet_extended.pt
 
 # IDE
 .vscode/
